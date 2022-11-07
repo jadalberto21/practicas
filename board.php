@@ -9,6 +9,14 @@
 <body>
     <?php
     echo "HOla mundo"
+
+    var a, b, c;
+    if (a > b) {
+        echo "<b> el primer valor es el mayor </b>"
+    }else{
+        echo "<b> el segundo valor es el mayor </b>"
+    }
     ?>
+
 </body>
 </html>
